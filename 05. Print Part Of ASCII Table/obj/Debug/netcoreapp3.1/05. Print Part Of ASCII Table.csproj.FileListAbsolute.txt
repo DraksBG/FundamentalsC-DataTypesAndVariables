@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.exe
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.deps.json
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+C:\Users\dimit\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.genruntimeconfig.cache
